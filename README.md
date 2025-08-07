@@ -66,4 +66,4 @@ The project uses 5 structured CSV files:
 ##  ERD – Zomato Database Design
 
 > **Title:** *Zomato Delivery System – Entity Relationship Diagram*
-> (https://github.com/Shumaila-Hasan/zomato_data_analysis/blob/5a122cef931a7a1432e6041c34ea300d2effe33a/ERD.png)
+> ![image alt](https://github.com/Shumaila-Hasan/zomato_data_analysis/blob/5a122cef931a7a1432e6041c34ea300d2effe33a/ERD.png)
