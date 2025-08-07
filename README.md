@@ -21,17 +21,6 @@ The project uses 5 structured CSV files:
 
 ---
 
-##  Sample Insights
-
-*  **2–4 PM** is the busiest time for orders.
-*  Customers spending ₹100K+ form a high-value niche segment.
-*  Most dishes see **order spikes during monsoon**, not summer.
-*  Cities with high delivery volume show stronger revenue concentration.
-*  Dishes like **Biryani, Burgers, and Thali** dominate in multiple cities.
-
----
-
-
 
 ## 🪰 Tools Used
 
@@ -77,4 +66,4 @@ The project uses 5 structured CSV files:
 ##  ERD – Zomato Database Design
 
 > **Title:** *Zomato Delivery System – Entity Relationship Diagram*
-> *(https://github.com/Shumaila-Hasan/zomato_data_analysis/blob/main/ERD.png)*
+> (https://github.com/Shumaila-Hasan/zomato_data_analysis/blob/main/ERD.png)
